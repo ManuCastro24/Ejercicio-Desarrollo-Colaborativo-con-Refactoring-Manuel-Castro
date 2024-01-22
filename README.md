@@ -8,3 +8,5 @@ Diseñe un algoritmo que determine el precio a pagar por el alquiler de un vehí
 #3. Escribir una aplicación que solicite al usuario cuántos números desea introducir. A continuación, se introducirá por teclado esa cantidad de números enteros, y por último, los mostrará en el orden inverso al introducido.
 #4.Diseñar un programa que solicite al usuario una frase y una palabra. A continuaciónbuscará cuántas veces aparece la palabra en la frase.
 #5.Algoritmo que lea caracteres hasta que el carácter leído sea una Z y nos muestre elnúmero de caracteres leídos que son vocales.
+
+#En el segundo ejercicio se ha modificado el código de forma que se ha puesto ordenado para que sea mas legible.
